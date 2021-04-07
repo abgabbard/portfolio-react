@@ -5,11 +5,7 @@ function About() {
     <div>
       <h1>About Page</h1>
       <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui
-        mauris, ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus
-        porta. Nam quis arcu non lectus tincidunt fermentum. Suspendisse aliquet orci porta quam
-        semper imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed
-        rhoncus mollis diam, sit amet facilisis lectus blandit at.
+      I believe in creating a greater human experience by engaging, enabling, and elevating those around us. People in our communities, in our families, and in our workplace. Engage them in every capacity. Enable those around us by actively listening and contributing to the conversation. To the problem or challenge at hand. And elevate those around us by knowledge sharing, by sharing life and cultural perspective, and by resource sharing through collaboration.
       </p>
     </div>
   );
