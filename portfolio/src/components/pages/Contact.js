@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, Route } from "react-router-dom";
-import Learn from "./Learn";
+import Learn from "./Closing";
 
 function Contact(props) {
   return (

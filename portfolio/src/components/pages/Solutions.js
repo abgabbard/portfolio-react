@@ -1,6 +1,6 @@
 import React from "react";
 
-function Blog() {
+function Solutions() {
   return (
     <div>
       <h1>Solutions</h1>
@@ -13,4 +13,4 @@ function Blog() {
   );
 }
 
-export default Blog;
+export default Solutions;
