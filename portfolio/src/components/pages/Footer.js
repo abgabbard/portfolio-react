@@ -22,7 +22,7 @@ const Footer = () => {
           </a>
         </li>
       </ul>
-      <p class="text-muted small mb-0">Copyright &copy; Your Website 2020</p>
+      <p class="text-muted small mb-0">Copyright &copy; Andrew Gabbard 2021</p>
     </div>
   </footer>
         </div>

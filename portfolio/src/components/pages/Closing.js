@@ -1,6 +1,6 @@
 import React from "react";
 
-const OnlineResume = () => {
+const Closing = () => {
   return (
     <div>
       <section class="content-section bg-primary text-white">
@@ -22,4 +22,4 @@ const OnlineResume = () => {
   );
 };
 
-export default OnlineResume;
+export default Closing;

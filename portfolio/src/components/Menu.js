@@ -32,14 +32,6 @@ function Menu() {
       </li>
       <li className="nav-item">
         <Link
-          to="/contact"
-          className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}
-        >
-          Contact
-        </Link>
-      </li>
-      <li className="nav-item">
-        <Link
           to="/projects"
           className={location.pathname === "/projects" ? "nav-link active" : "nav-link"}
         >
@@ -48,7 +40,7 @@ function Menu() {
       </li>
       <li className="nav-item">
         <Link
-          to="/Closing"
+          to="/closing"
           className={location.pathname === "/closing" ? "nav-link active" : "nav-link"}
         >
           Closing
@@ -56,13 +48,21 @@ function Menu() {
       </li>
       <li className="nav-item">
         <Link
-          to="/onlineresume"
-          className={location.pathname === "/onlineresume" ? "nav-link active" : "nav-link"}
+          to="/resume"
+          className={location.pathname === "/resume" ? "nav-link active" : "nav-link"}
         >
-         Online Resume
+         Resume
         </Link>
       </li>
      
+      <li className="nav-item">
+        <Link
+          to="/contact"
+          className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+        >
+          Contact
+        </Link>
+      </li>
     </ul>
   );
 }
