@@ -1,15 +1,16 @@
-import React from 'react'
+import React from "react";
 
-const OnlineResume = () => {
-    return (
-        <div>
-            <section class="content-section bg-primary text-white">
+function Closing() {
+  return (
+    <div>
+      <section class="callout">
     <div class="container text-center">
-      <h2 class="mb-4">The buttons below are impossible to resist...</h2>
+      <h2 class="mx-auto mb-5">Click Below to view my resume!</h2>
+      <a class="btn btn-primary btn-xl" href="https://abgabbard.github.io/portfolio2021/GabbardAndrew-Resume-April2021.pdf">Resume (PDF)</a>
     </div>
   </section>
-        </div>
-    )
+    </div>
+  );
 }
 
-export default OnlineResume
+export default Closing;
