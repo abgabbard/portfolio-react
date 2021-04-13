@@ -1,10 +1,10 @@
-import React, { Component } from "react";
+import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import NavTabs from "./components/NavTabs";
+import Menu from "./components/Menu";
 import Home from "./components/pages/Home";
 import About from "./components/pages/About";
 import Solutions from "./components/pages/Solutions";
-import Contact from "./components/pages/Contact";
+// import Contact from "./components/pages/Contact";
 import Closing from "./components/pages/Closing"
 import Projects from "./components/pages/Projects"
 import OnlineResume from "./components/pages/OnlineResume";
@@ -17,22 +17,28 @@ const project = [
       description: "Silly Burger App",
       image: "/assets/images/burgerThumbnail.jpg",
 
-    }
+    },
+    {
+      id: 2,
+      name: "Collect 'Em All",
+      description: "Card Collection Tracker",
+      image: "/assets/images/collectemallThumbnail.jpg",},
 ];
 
 function App() {
   return (
     <Router>
       <div>
-      < Home /> 
-      < About />
-      < Solutions />
-      < Closing />
-      < Projects project={project}/>
-      < OnlineResume />
+      < Menu />
+      <Route exact path="/" component={Home} /> 
+      <Route exact path="/about" component={About} />
+      <Route exact path="/solutions" component={Solutions} />
+      <Route exact path="/projects" component={Projects} />
+      <Route exact path="/onlineresume" component={OnlineResume} />
+      <Route exact path="/closing" component={Closing} />
       < Footer />
       </div>
-    </Router>
+     </Router>
   );
 }
 
