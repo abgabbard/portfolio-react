@@ -10,18 +10,22 @@ function About() {
               <h2>
                 I believe in creating a greater human experience by engaging,
                 enabling, and elevating those around us. People in our
-                communities, in our families, and in our workplace. Engage them
-                in every capacity. Enable those around us by actively listening
-                and contributing to the conversation. To the problem or
-                challenge at hand. And elevate those around us by knowledge
+                communities, in our families, and in our workplace. <p></p>
+                Engage them in every capacity. <p></p>Enable them by actively
+                listening and contributing to the conversation. To the problem
+                or challenge at hand. <p></p>And elevate them by knowledge
                 sharing, by sharing life and cultural perspective, and by
                 resource sharing through collaboration.
               </h2>
               <p class="lead mb-5">
-                I have shared experiences from my professional experience as well as projects from the Full Stack Web Development Bootcamp at the University of Arizona.
-                <a href="https://unsplash.com/">Unsplash</a>!
+                I have shared experiences from my professional experience as
+                well as projects from the Full Stack Web Development Bootcamp at
+                the University of Arizona.
               </p>
-              <a class="btn btn-dark btn-xl js-scroll-trigger" href="/solutions">
+              <a
+                class="btn btn-dark btn-xl js-scroll-trigger"
+                href="/solutions"
+              >
                 Check Out My Work!
               </a>
             </div>

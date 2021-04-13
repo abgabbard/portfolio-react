@@ -82,20 +82,18 @@ function Solutions() {
               </h4>
               <strong>
                 "We want as many children as possible to love to ride their bike
-                - that is our mission." - Marcus Ihlenfeld (Founder)
-              </strong>
-              Woom Bikes USA is a wonderful company. Their mission is simple and
-              honest. "We want as many children as possible to love to ride
-              their bike - that is our mission." Biggest pain point: They drop
+                - that is our mission." </strong><p></p> - Marcus Ihlenfeld (Founder)
+              
+              <p></p><p class="text-faded mb-0">Biggest pain point: They drop
               ship most of their non-bicycle products via drop shipping from
               Amazon FBA / or UPS in Kentucky. Nearly 100% of their orders
               contain a bicycle + one other item that is not shipped from
-              Austin. This required tedious manual splitting every morning. The
+              Austin. This required tedious manual splitting every morning. <p></p>The
               human solution: I spent a lot of time working with their
               Operation's Manager, Billy Flores, to solve many of their shipping
               dilemmas. Whether it was shipping rules or product catalog issues;
               we were able to tackle anything and everything without leaving the
-              ShippingEasy product. The software solution: we had a very long
+              ShippingEasy product. <p></p>The software solution: we had a very long
               standing feature request regarding automated split orders based on
               SKU and it did not make it onto our quarterly roadmaps. Billy's
               team needed this feature because they had orders everyday that
@@ -105,15 +103,15 @@ function Solutions() {
               As I spoke with a dozen clients a day I knew this was an ongoing
               dilemma for many of our customers. I championed this to make it
               quickly onto our product roadmap and many of our clients benefited
-              from the feature.
+              from the feature.</p>
             </div>
             <div class="col-lg-3 col-md-6">
               <span class="service-icon rounded-circle mx-auto mb-3">
                 <i class="icon-mustache"></i>
               </span>
               <h4>
-                <strong>Operation Care & Comfort</strong>
-              </h4>
+                <strong>Operation Care & Comfort</strong></h4><h5> <p></p>Over a million pounds of care packages have been packed and mailed by OCC!
+              </h5>
               <p class="text-faded mb-0">
                 Operation Care and Comfort has hundreds of volunteers meet at
                 Angel Stadium of Annaheim to prepare care packages for active
