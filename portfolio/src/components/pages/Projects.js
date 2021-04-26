@@ -15,7 +15,7 @@ const Projects = () => {
                 <div class="caption-content">
                   <div class="h2">Devour a Burger I Dare You!</div>
                   <p class="mb-0">
-                    The App that will land me at google!
+                    Burger Devour App
                   </p>
                 </div>
               </div>
@@ -30,7 +30,7 @@ const Projects = () => {
                 <div class="caption-content">
                   <div class="h2">Devour a Burger I Dare You!</div>
                   <p class="mb-0">
-                    The App that will land me at google!
+                    Burger Devour App
                   </p>
                 </div>
               </div>
@@ -45,7 +45,7 @@ const Projects = () => {
                 <div class="caption-content">
                   <div class="h2">Devour a Burger I Dare You!</div>
                   <p class="mb-0">
-                    The App that will land me at google!
+                    Burger Devour App
                   </p></div>
                 </div>
               
@@ -60,7 +60,7 @@ const Projects = () => {
                 <div class="caption-content">
                   <div class="h2">Devour a Burger I Dare You!</div>
                   <p class="mb-0">
-                    The App that will land me at google!
+                    Burger Devour App
                   </p>
                 </div>
               </div>
@@ -75,7 +75,7 @@ const Projects = () => {
                 <div class="caption-content">
                   <div class="h2">Devour a Burger I Dare You!</div>
                   <p class="mb-0">
-                    The App that will land me at google!
+                    Burger Devour App
                   </p>
                 </div>
               </div>
@@ -90,7 +90,7 @@ const Projects = () => {
                 <div class="caption-content">
                   <div class="h2">Devour a Burger I Dare You!</div>
                   <p class="mb-0">
-                    The App that will land me at google!
+                    Burger Devour App
                   </p>
                 </div>
               </div>
