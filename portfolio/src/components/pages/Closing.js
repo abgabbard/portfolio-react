@@ -18,6 +18,12 @@ const Closing = () => {
           </h2>
         </div>
       </section>
+      <a
+                class="btn btn-dark btn-xl js-scroll-trigger"
+                href="/resume"
+              >
+                RESUME (PDF)!
+              </a>
     </div>
   );
 };

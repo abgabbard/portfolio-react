@@ -1,4 +1,5 @@
 import React from "react";
+import { Link, useLocation } from "react-router-dom";
 
 const Projects = () => {
   return (
@@ -14,7 +15,7 @@ const Projects = () => {
               <div class="caption">
                 <div class="caption-content">
                  <div class="h2">weGOLF - golf score card and tracking app</div>
-                 <a href="https://github.com/Brando2147/weGOLF"><p class="mb-0">
+                 <a href="https://github.com/Brando2147/weGOLF" target="_blank"><p class="mb-0">
                     weGOLF
                   </p></a>
                 </div>
@@ -95,6 +96,14 @@ const Projects = () => {
               <img class="img-fluid" src="/assets/images/tiers01.png" alt="NodeExpressBurgerApp"></img>
             </a>
           </div>
+        </div>
+        <div>
+        <a
+                class="btn btn-dark btn-xl js-scroll-trigger"
+                href="/closing"
+              >
+                Closing Remarks!
+              </a>
         </div>
       </div>
     </div>
