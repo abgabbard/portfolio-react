@@ -13,28 +13,26 @@ const Projects = () => {
             <a class="portfolio-item" href="#!">
               <div class="caption">
                 <div class="caption-content">
-                  <div class="h2">Devour a Burger I Dare You!</div>
+                  <div class="h2">weGOLF - golf score card and tracking app</div>
                   <p class="mb-0">
-                    Burger Devour App
+                    weGOLF
                   </p>
                 </div>
               </div>
-              <img class="img-fluid" src="/assets/images/burgerThumbnail.jpg" alt="NodeExpressBurgerApp"></img>
+              <img class="img-fluid" src="/assets/images/wegolf05.png" alt="NodeExpressBurgerApp"></img>
             </a>
           </div>
-        {/* </div> */}
-        {/* <div class="row no-gutters"> */}
           <div class="col-lg-6">
             <a class="portfolio-item" href="#!">
               <div class="caption">
                 <div class="caption-content">
-                  <div class="h2">Devour a Burger I Dare You!</div>
+                  <div class="h2">Collect 'Em All!</div>
                   <p class="mb-0">
-                    Burger Devour App
+                    Card Collection Tracker
                   </p>
                 </div>
               </div>
-              <img class="img-fluid" src="/assets/images/burgerThumbnail.jpg" alt="NodeExpressBurgerApp"></img>
+              <img class="img-fluid" src="/assets/images/collectemallThumbnail.jpg" alt="NodeExpressBurgerApp"></img>
             </a>
           </div>
         </div>
@@ -43,13 +41,13 @@ const Projects = () => {
             <a class="portfolio-item" href="#!">
               <div class="caption">
                 <div class="caption-content">
-                  <div class="h2">Devour a Burger I Dare You!</div>
+                  <div class="h2">Pitch A Tent</div>
                   <p class="mb-0">
-                    Burger Devour App
+                    State campsite search
                   </p></div>
                 </div>
               
-              <img class="img-fluid" src="/assets/images/burgerThumbnail.jpg" alt="NodeExpressBurgerApp"></img>
+              <img class="img-fluid" src="/assets/images/pitchatent.png" alt="NodeExpressBurgerApp"></img>
             </a>
           </div>
         {/* </div> */}
