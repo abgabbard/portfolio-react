@@ -13,10 +13,10 @@ const Projects = () => {
             <a class="portfolio-item" href="#!">
               <div class="caption">
                 <div class="caption-content">
-                  <div class="h2">weGOLF - golf score card and tracking app</div>
-                  <p class="mb-0">
+                 <div class="h2">weGOLF - golf score card and tracking app</div>
+                 <a href="https://github.com/Brando2147/weGOLF"><p class="mb-0">
                     weGOLF
-                  </p>
+                  </p></a>
                 </div>
               </div>
               <img class="img-fluid" src="/assets/images/wegolflogo.png" alt="NodeExpressBurgerApp"></img>
